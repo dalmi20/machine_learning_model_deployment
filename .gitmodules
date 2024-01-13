@@ -1,0 +1,6 @@
+[submodule "interface"]
+	path = interface
+	url = https://github.com/dalmi20/ml_interface-DM_Project-.git
+[submodule "ml-interface"]
+	path = ml-interface
+	url = https://github.com/dalmi20/ml_interface-DM_Project-.git
